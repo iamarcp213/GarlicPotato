@@ -1,0 +1,2 @@
+# GarlicPotato
+my first repository
